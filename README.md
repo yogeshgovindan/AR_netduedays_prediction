@@ -1,2 +1,2 @@
 # AR_netduedays_prediction
-Predicting the Netdue days required for Account Recievable Invoices
+AI in Accounts Receivables - Predicting the Net due days required for clearing the Open Invoices
